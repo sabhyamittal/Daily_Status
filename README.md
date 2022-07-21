@@ -1,6 +1,6 @@
 # Daily_Status
 
-|Topics|Rev1|Rev2|Rev3|Rev4|Rev5|
+|Topics|WEEK1|WEEK2|WEEK3|WEEK4|WEEK5|
 |:---------|:---|----|----|:---|:---|
 |DBMS|
 |Machine Learning|
