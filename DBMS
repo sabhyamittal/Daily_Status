@@ -1,1 +1,7 @@
-
+Models: Various data models to store the database.(Network,Heirarichal,Realtional,ER,Object oriented)
+ER models:(Entity Relationship)
+keys: Primary key , candidate,foreign,super key
+Normalization:Closure Method(To find no. of candidate keys),1,2,3,BCNF,Functional Dependency
+Transaction Control and Concurrency 
+SQL and Relational Algebra
+DDL,DML,DCL Commands,constraints,aggregate functions,joins,nested query
